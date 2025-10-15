@@ -7,6 +7,10 @@ import (
 const NMAX int = 100
 
 
+// Perubahan oleh Muhamad Yusril Malakaini untuk tugas Git
+
+// edit by yusril malakaini
+
 type komik struct{
 	id string
 	judul string
